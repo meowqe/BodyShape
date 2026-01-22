@@ -1,5 +1,7 @@
 # BodyShape
 
+## Сдеалал: Ким Владислав 2ИП-7-24
+
 Эффективный и современный лендинг для фитнес-центра, созданный для привлечения новых клиентов и повышения конверсии.
 
 ![Фитнес лендинг](https://img.shields.io/badge/Фитнес-Лендинг-009688?style=for-the-badge&logo=gym&logoColor=white)
@@ -14,7 +16,7 @@
 - **Удобную запись на тренировки** с онлайн-формой
 - **Адаптивность** для всех устройств (мобильные, планшеты, десктопы)
 
-### 🎯 Технические преимущества
+## 🎯 Технические преимущества
 - **Высокая производительность** (оптимизированные изображения, минифицированный код)
 - **SEO-оптимизация** для лучшей индексации в поисковых системах
 - **Кроссбраузерная совместимость**
@@ -25,4 +27,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
